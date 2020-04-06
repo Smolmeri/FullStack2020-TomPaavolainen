@@ -1,2 +1,2 @@
 # FullStack2020-TomPaavolainen
-Helsinki University Full Stack 2020 Online course
+Helsinki University FullStack 2020 Online course
