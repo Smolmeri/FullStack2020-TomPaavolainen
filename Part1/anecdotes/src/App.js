@@ -14,7 +14,6 @@ const App = (props) => {
 
   // Find the index of the highest vote value
   let i = newVote.indexOf(Math.max(...newVote));
-  console.log(i)
 
 
   // Event handlers
