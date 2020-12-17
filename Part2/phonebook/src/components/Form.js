@@ -1,27 +1,25 @@
 import React from "react";
 
 const Form = ({
-  addName,
+  checkIfExists,
   newName,
   newNumber,
-  handleFormChange,
+  handleNameChange,
   handleNumberChange,
   handleSubmit,
 }) => {
   return (
-    <form onSubmit={addName}>
+    <form onSubmit={checkIfExists}>
       <div>
         <p>
-          Name: <input value={newName} onChange={handleFormChange} />
+          Name: <input value={newName} onChange={handleNameChange} />
         </p>
         <p>
           Number: <input value={newNumber} onChange={handleNumberChange} />
         </p>
       </div>
       <div>
-        <button type="submit" onClick={handleSubmit}>
-          add
-        </button>
+        <button type="submit">add</button>
       </div>
     </form>
   );
