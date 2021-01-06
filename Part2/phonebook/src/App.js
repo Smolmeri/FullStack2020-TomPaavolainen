@@ -26,7 +26,6 @@ const App = () => {
     const phonebookObject = {
       name: newName,
       number: newNumber,
-      id: persons[persons.length - 1].id + 1,
     };
 
     personsData
