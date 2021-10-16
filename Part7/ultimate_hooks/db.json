@@ -1,0 +1,46 @@
+{
+  "notes": [
+    {
+      "content": "custom-hookit aivan mahtavia",
+      "id": 1
+    },
+    {
+      "content": "paras feature ikinä <3",
+      "id": 2
+    },
+    {
+      "content": "Hello ",
+      "id": 3
+    },
+    {
+      "content": "Hello 2",
+      "id": 4
+    },
+    {
+      "content": "Fagernäs",
+      "id": 5
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "Tom",
+      "number": "666",
+      "id": 2
+    },
+    {
+      "name": "Tomppa",
+      "number": "04048123123",
+      "id": 3
+    },
+    {
+      "name": "Niko",
+      "number": "04022603",
+      "id": 4
+    }
+  ]
+}
